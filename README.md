@@ -496,7 +496,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **Version 1.5.0**
 - 🧠 Enhanced BiLSTM architecture
-- 👁️ Bahdanau attention mechanism
 - 📚 Expanded dataset coverage
 - ⚡ Faster inference pipeline
 
