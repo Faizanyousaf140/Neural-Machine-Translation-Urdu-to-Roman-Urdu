@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![BLEU](https://img.shields.io/badge/BLEU-0.45+-orange.svg)](https://en.wikipedia.org/wiki/BLEU)
 
-**Advanced BiLSTM Seq2Seq with Attention for Urdu-Roman Urdu Translation**
+**Advanced BiLSTM Seq2Seq for Urdu-Roman Urdu Translation**
 
 *Built for poetic text translation using the Rekhta Ghazals Dataset*
 
